@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def majuscule(mot):
-    # TODO completer la fonction ici
-    return mot
+    return mot.upper()
 
 
 if __name__ == '__main__':
